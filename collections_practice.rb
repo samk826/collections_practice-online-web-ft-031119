@@ -33,3 +33,4 @@ def find_a(array)
   array.find do |word|
     word[] == "a"
   end
+end
